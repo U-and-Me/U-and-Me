@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=U-And-Me)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-And-Me&layout=compact)
