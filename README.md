@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=U-And-Me)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=U-And-Me)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-And-Me&layout=compact)
