@@ -52,10 +52,10 @@ Here are some ideas to get you started:
                  
 </svg>
 -->
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20yu%20Na&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=waving)
-
+-->
 
 <h3 align="center"><b>📖 Tech Stack 📖<b></h3>
 <p align="center">
