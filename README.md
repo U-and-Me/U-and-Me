@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kim%20yu%20Na&fontSize=80)
+
 ### Hi there 👋 <hr>
 <!--
 **U-and-Me/U-and-Me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,49 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 150">
-  <style>
-    .text {
-      font-size: 50px;
-      font-weight: 700;
-      font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-    }
-    .desc {
-      font-size: 20px;
-      font-weight: 500;
-      font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-    }
-    .text, .desc {
-      animation: fadeIn 1.2s ease-in-out forwards;
-      }@keyframes fadeIn {
-        from {
-          opacity: 0;
-				}
-				to {
-          opacity: 1;
-				}
-		  };
-                            
-  </style>
-  <g transform="translate(427, 75) scale(1, 1) translate(-427, -75)">
-                    
-    <path d="" fill="#E3A6AE" opacity="0.4" >
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 70Q 213.5 110 427 80T 854 105L 854 0 Z;M0 0L 0 95Q 213.5 110 427 90T 854 80L 854 0 Z;M0 0L 0 115Q 213.5 85 427 115T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 110 427 80T 854 105L 854 0 Z"></animate>
-    </path>
-    <path d="" fill="#E3A6AE" opacity="0.4" >
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 85Q 213.5 130 427 100T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 70 427 70T 854 90L 854 0 Z;M0 0L 0 95Q 213.5 75 427 100T 854 115L 854 0 Z;M0 0L 0 85Q 213.5 130 427 100T 854 110L 854 0 Z"></animate>
-    </path>
-  </g>
-                
-  <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#363636;">Kim Yu Na</text>
-                 
-</svg>
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20yu%20Na&fontSize=80)
-
-
 <h3 align="center"><b>📖 Tech Stack 📖<b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
