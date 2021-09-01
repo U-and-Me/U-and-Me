@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 150">
   <style>
     .text {
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#363636;">Kim Yu Na</text>
                  
 </svg>
-
+-->
 <h3 align="center"><b>📖 Tech Stack 📖<b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
