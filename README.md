@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 <br><br>
                                                                                                                                                     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-and-Me&show_icons=true&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-and-Me&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-and-Me&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
